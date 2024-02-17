@@ -1,0 +1,64 @@
+/* todo.css */
+
+body {
+    background-color: #FFC727;
+}
+
+.navbar {
+    background-color: #343A40;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+    color: #FFFFFF; 
+}
+
+.navbar-brand:hover,
+.navbar-nav .nav-link:hover {
+    color: #FFC727; 
+
+}
+
+
+
+#btn {
+    background-color: #ffc727;
+    border-color: #ffc727;
+    color: #343a40;
+    margin-right: 15px;
+}
+
+#btn:hover {
+    background-color: #ff9900;
+    border-color: #ff9900;
+}
+
+
+
+
+#list {
+    text-align: center;
+    background-color: #FFC727; 
+    color: #020200; 
+    padding: 10px; 
+    border-radius: 5px;
+    display: inline-block; 
+}
+
+#todo {
+    list-style: none;
+    padding: 10px;
+    background-color: #eefd95;
+    color: #0a0a00; 
+    border-radius: 5px; 
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-top: auto;
+}
+
+
